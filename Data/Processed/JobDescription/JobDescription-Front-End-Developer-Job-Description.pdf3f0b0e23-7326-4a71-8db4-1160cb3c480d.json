@@ -1,0 +1,243 @@
+{
+              "bi_grams": "[Developer Job, Job Description, D eveloper, CI Technology, Technology Team, D eveloper, growing technology, technology team, team responsible, user interfaces, user experiences, multiple web, Development Manager, UI web, web services, services integration, SCRUM sessions, product reviews, Follow preferred, preferred development, development methodologies, development standards, Strong proficiency, HTML JavaScript, CSS Sass, Strong proficiency, responsive web, web design, Strong proficiency, modern JavaScript, JavaScript frameworks, frameworks including, including AngularJS, Strong proficiency, web services, services integration, integration REST, REST AJAX, communicating profes, profes sionally, work individually, meet assigned, assigned deadlines, consistently learn, apply new, new technologies, Experie nce, version control, control systems, Git preferred, dependency management, management tools, tools pref, pref erred, erred Bower, Bower Grunt, Associate Degree, Computer Science, related field, field Bachelor, degree Preferred, years progressive, progressive development, development experience, Demonstrable w, w orking, orking Web, Web Portfolio, Entry level, level candidates, strong academic, academic performa, performa nce, w orking, orking Web, Web Portfolio, Salary DOE]",
+              "clean_data": " \nFront  Developer Job Description  \nWe are looking to add a  Front  D eveloper to our CI Technology Team  The Front  D eveloper will \nbe an integral part of a growing technology team responsible for the development of  user interfaces  \nand user experiences across multiple web  applications   The Front  Developer  will report to the C IT \nDevelopment Manager  \nResponsibilities  Include  \n UI/UX Front   development and design  \n UI web services integration  \n Participation in SCRUM sessions and product reviews  \n Follow preferred development methodologies and adhere to development standards  \n Documentation  \nFront  Developer   Skills and Requirements  \nStrong proficiency with HTML JavaScript  CSS Sass and Bootstrap  \nStrong proficiency with responsive web design  \nStrong proficiency with modern JavaScript frameworks including AngularJS and JQuery  \nStrong proficiency with web services integration REST AJAX  \nAbility to work with a team of developers  communicating profes sionally and effectively  \nAbility to work individually and meet assigned deadlines  \n Ability to consistently learn and apply new technologies  \nExperie nce with version control systems  Git preferred  \nExperience with build and dependency management tools pref erred Bower Grunt  \nAssociate Degree in Computer Science or related field Bachelor\u2019s degree Preferred  \n13 years progressive development experience  \nDemonstrable w orking Web Portfolio  \nEntry level candidates with strong academic performa nce and without a w orking Web Portfolio may be \nconsidered  \nSalary DOE  \n",
+              "emails": [],
+              "entities": [
+                            "Front  Developer Job Description",
+                            "CI Technology Team",
+                            "UI/UX Front",
+                            "UI",
+                            "Preferred",
+                            "Documentation  \nFront  Developer",
+                            "Follow",
+                            "JavaScript",
+                            "The Front  Developer",
+                            "Bachelor",
+                            "Front"
+              ],
+              "experience": "Skills and Requirements  \n Strong proficiency with HTML JavaScript   CSS Sass and Bootstrap  \n Strong proficiency with responsive web design  \n Strong proficiency with modern JavaScript frameworks including AngularJS and JQuery  \n Strong proficiency with web services integration REST AJAX  \n Ability to work with a team of developers   communicating profes sionally and effectively  \n Ability to work individually and meet assigned deadlines  \n  Ability to consistently learn and apply new technologies  \n Experie nce with version control systems   Git preferred  \n Experience with build and dependency management tools pref erred Bower Grunt  \n Associate Degree in Computer Science or related field Bachelor \u2019s degree Preferred  \n 13 years progressive development experience  \n Demonstrable w orking Web Portfolio  \n Entry level candidates with strong academic performa nce and without a w orking Web Portfolio may be \n considered  \n Salary DOE  \n",
+              "extracted_keywords": [
+                            "Front",
+                            "Developer",
+                            "Job",
+                            "Description",
+                            "Front",
+                            "D",
+                            "eveloper",
+                            "CI",
+                            "Technology",
+                            "Team",
+                            "Front",
+                            "D",
+                            "eveloper",
+                            "part",
+                            "technology",
+                            "team",
+                            "development",
+                            "user",
+                            "interfaces",
+                            "user",
+                            "experiences",
+                            "web",
+                            "applications",
+                            "Front",
+                            "Developer",
+                            "C",
+                            "IT",
+                            "Development",
+                            "Manager",
+                            "Responsibilities",
+                            "UI",
+                            "UX",
+                            "Front",
+                            "development",
+                            "design",
+                            "UI",
+                            "web",
+                            "services",
+                            "integration",
+                            "Participation",
+                            "SCRUM",
+                            "sessions",
+                            "product",
+                            "reviews",
+                            "development",
+                            "methodologies",
+                            "development",
+                            "standards",
+                            "Documentation",
+                            "Front",
+                            "Developer",
+                            "Skills",
+                            "Requirements",
+                            "proficiency",
+                            "HTML",
+                            "JavaScript",
+                            "CSS",
+                            "Sass",
+                            "Bootstrap",
+                            "proficiency",
+                            "web",
+                            "design",
+                            "proficiency",
+                            "JavaScript",
+                            "frameworks",
+                            "AngularJS",
+                            "JQuery",
+                            "Strong",
+                            "proficiency",
+                            "web",
+                            "services",
+                            "integration",
+                            "REST",
+                            "Ability",
+                            "team",
+                            "developers",
+                            "profes",
+                            "Ability",
+                            "deadlines",
+                            "Ability",
+                            "technologies",
+                            "Experie",
+                            "nce",
+                            "version",
+                            "control",
+                            "systems",
+                            "Git",
+                            "Experience",
+                            "build",
+                            "dependency",
+                            "management",
+                            "tools",
+                            "Bower",
+                            "Grunt",
+                            "Associate",
+                            "Degree",
+                            "Computer",
+                            "Science",
+                            "field",
+                            "Bachelor",
+                            "degree",
+                            "years",
+                            "development",
+                            "experience",
+                            "w",
+                            "Web",
+                            "Portfolio",
+                            "Entry",
+                            "level",
+                            "candidates",
+                            "performa",
+                            "nce",
+                            "w",
+                            "Web",
+                            "Portfolio",
+                            "Salary",
+                            "DOE"
+              ],
+              "keyterms": [
+                            [
+                                          "web service integration",
+                                          0.45385875700218076
+                            ],
+                            [
+                                          "strong proficiency",
+                                          0.07606950124927175
+                            ],
+                            [
+                                          "d eveloper",
+                                          0.05180932203539945
+                            ],
+                            [
+                                          "user interface",
+                                          0.031456346948803934
+                            ],
+                            [
+                                          "development",
+                                          0.02626524208667985
+                            ],
+                            [
+                                          "team responsible",
+                                          0.025659990421143353
+                            ],
+                            [
+                                          "Technology Team",
+                                          0.024581317382404048
+                            ],
+                            [
+                                          "CI Technology",
+                                          0.02103526603416428
+                            ],
+                            [
+                                          "Job Description",
+                                          0.01668071940478593
+                            ],
+                            [
+                                          "developer Job",
+                                          0.013679615393338205
+                            ],
+                            [
+                                          "experience",
+                                          0.013278802484293906
+                            ],
+                            [
+                                          "design",
+                                          0.0059263520894499745
+                            ],
+                            [
+                                          "preferred",
+                                          0.005633043077007951
+                            ],
+                            [
+                                          "technology",
+                                          0.004927951254890945
+                            ],
+                            [
+                                          "UI",
+                                          0.004869805339673064
+                            ],
+                            [
+                                          "JavaScript",
+                                          0.004285003060114995
+                            ],
+                            [
+                                          "ability",
+                                          0.003972247578855646
+                            ],
+                            [
+                                          "application",
+                                          0.003760254319978722
+                            ],
+                            [
+                                          "multiple",
+                                          0.003617046101199868
+                            ],
+                            [
+                                          "Manager",
+                                          0.0033141985828150757
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 16,
+                            "ADP": 19,
+                            "ADV": 5,
+                            "AUX": 6,
+                            "CCONJ": 13,
+                            "DET": 9,
+                            "NOUN": 72,
+                            "NUM": 1,
+                            "PART": 5,
+                            "PRON": 2,
+                            "PROPN": 44,
+                            "SPACE": 45,
+                            "SYM": 1,
+                            "VERB": 21,
+                            "X": 1
+              },
+              "resume_data": " \nFront -End Developer Job Description  \nWe are looking to add a  Front -End D eveloper to our CI -Technology Team!  The Front -End D eveloper will \nbe an integral part of a growing technology team, responsible for the development of  user interfaces  \nand user experiences across multiple web  applications.   The Front -End Developer  will report to the C I-T \nDevelopment Manager.  \nResponsibilities  Include  \n\u2022 UI/UX (Front -End)  development and design  \n\u2022 UI web services integration  \n\u2022 Participation in SCRUM sessions and product reviews  \n\u2022 Follow preferred development methodologies and adhere to development standards  \n\u2022 Documentation  \nFront -End Developer  \u2013 Skills and Requirements  \nStrong proficiency with HTML, JavaScript , CSS, Sass, and Bootstrap  \nStrong proficiency with responsive web design  \nStrong proficiency with modern JavaScript frameworks including AngularJS and JQuery  \nStrong proficiency with web services integration (REST, AJAX)  \nAbility to work with a team of developers , communicating profes sionally and effectively  \nAbility to work individually and meet assigned deadlines  \n Ability to consistently learn and apply new technologies  \nExperie nce with version control systems  (Git) preferred  \nExperience with build and dependency management tools pref erred (Bower, Grunt)  \nAssociate Degree in Computer Science or related field (Bachelor\u2019s degree Preferred)  \n1-3 years progressive development experience  \nDemonstrable w orking Web Portfolio  \nEntry level candidates with strong academic performa nce and without a w orking Web Portfolio may be \nconsidered  \nSalary DOE  \n",
+              "tri_grams": "[Developer Job Description, looking to add, CI Technology Team, growing technology team, technology team responsible, experiences across multiple, development and design, UI web services, web services integration, Participation in SCRUM, sessions and product, Follow preferred development, preferred development methodologies, methodologies and adhere, adhere to development, Skills and Requirements, proficiency with HTML, Sass and Bootstrap, proficiency with responsive, responsive web design, proficiency with modern, modern JavaScript frameworks, JavaScript frameworks including, frameworks including AngularJS, AngularJS and JQuery, proficiency with web, web services integration, services integration REST, integration REST AJAX, Ability to work, team of developers, communicating profes sionally, sionally and effectively, Ability to work, individually and meet, meet assigned deadlines, Ability to consistently, learn and apply, apply new technologies, nce with version, version control systems, Experience with build, build and dependency, dependency management tools, management tools pref, tools pref erred, pref erred Bower, erred Bower Grunt, Degree in Computer, Science or related, related field Bachelor, Bachelor\u2019s degree, years progressive development, progressive development experience, Demonstrable w orking, w orking Web, orking Web Portfolio, Entry level candidates, candidates with strong, strong academic performa, academic performa nce, w orking Web, orking Web Portfolio]",
+              "unique_id": "3f0b0e23-7326-4a71-8db4-1160cb3c480d",
+              "years": []
+}

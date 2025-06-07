@@ -1,0 +1,237 @@
+{
+              "bi_grams": "[Sample Job, Job Description, Job Title, Human Resources, Resources Assistant, Job Description, position reports, Human Resources, Resources HR, HR director, company managers, HR staff, staff Company, Company XYZ, employee orientated, orientated hig, hig h, h performance, performance culture, emphasizes empowerment, empowerment quality, quality continuous, continuous improvement, ongoing development, superior workforce, gain exposure, functional areas, HR Information, Information Systems, Employee relations, Compensation Organization, Organization development, Specific responsibilities, Employee orientation, training logistics, Company wide, wide committee, committee facilitation, Employee safety, safety welfare, welfare wellness, health reporting, Provide direct, direct support, services policies, intern learn, Active participation, strategic planning, planning process, process including, developing goals, goals objectives, engage professionally, HR meetings, HR professionals, Gain experience, Human Resources, Resources Information, Information system, databas e, e management, record keeping, HR law, governmental regulations, Microsoft Word, General knowledge, employment law, high level, Effective oral, written management, management communication, communication skills]",
+              "clean_data": " \n \n  Sample Job Description \n \n \n \n Job Title  \n    Human Resources Assistant  \n \nJob Description  This position reports to the Human Resources HR director and \ninterfaces with company managers and HR staff Company XYZ is \ncommitted to an employee orientated hig h performance culture that \nemphasizes empowerment quality continuous improvement and the recruitment and ongoing development of a superior workforce  \n \nThe intern will gain exposure  \nto these functional areas   HR Information Systems  Employee relations  Training and development  \n  Benefits  Compensation Organization development  Employment  \n \n \nSpecific responsibilities         Employee orientation and training logistics and recordkeeping  \n Company wide committee facilitation and participation  \n Employee safety welfare wellness and health reporting  \n Provide direct support to employees during implementation of HR  \nservices policies and programs  \n \n \nWhat skills will the  \nintern learn        Active participation in strategic planning process including    \n                                                                 developing goals objectives and processes  \n How to engage professionally in HR meetings and seminars with \nother HR professionals in the region  \n Gain experience with Human Resources Information system  HRIS \ndatabas e management and record keeping  \n Application of HR law and compliance with governmental regulations  \n \n \n \nQualifications          Proficient with Microsoft Word and Excel  \n General knowledge of employment law and practices  \n Able to maintain a high level of confidentiality  \n Effective oral and written management communication skills  \n",
+              "emails": [],
+              "entities": [
+                            "Microsoft",
+                            "Compensation Organization",
+                            "Qualifications          Proficient",
+                            "HRIS",
+                            "Human Resources",
+                            "Application of HR",
+                            "Human Resources Information"
+              ],
+              "experience": "",
+              "extracted_keywords": [
+                            "Sample",
+                            "Job",
+                            "Description",
+                            "Job",
+                            "Title",
+                            "Human",
+                            "Resources",
+                            "Assistant",
+                            "Job",
+                            "Description",
+                            "position",
+                            "Human",
+                            "Resources",
+                            "HR",
+                            "director",
+                            "interfaces",
+                            "company",
+                            "managers",
+                            "HR",
+                            "staff",
+                            "Company",
+                            "XYZ",
+                            "employee",
+                            "hig",
+                            "h",
+                            "performance",
+                            "culture",
+                            "quality",
+                            "improvement",
+                            "recruitment",
+                            "development",
+                            "workforce",
+                            "intern",
+                            "exposure",
+                            "areas",
+                            "HR",
+                            "Information",
+                            "Systems",
+                            "Employee",
+                            "relations",
+                            "Training",
+                            "development",
+                            "Benefits",
+                            "Compensation",
+                            "Organization",
+                            "development",
+                            "Employment",
+                            "Specific",
+                            "responsibilities",
+                            "Employee",
+                            "orientation",
+                            "training",
+                            "logistics",
+                            "recordkeeping",
+                            "Company",
+                            "committee",
+                            "facilitation",
+                            "participation",
+                            "Employee",
+                            "safety",
+                            "welfare",
+                            "wellness",
+                            "health",
+                            "reporting",
+                            "support",
+                            "employees",
+                            "implementation",
+                            "HR",
+                            "services",
+                            "policies",
+                            "programs",
+                            "skills",
+                            "intern",
+                            "participation",
+                            "planning",
+                            "process",
+                            "goals",
+                            "objectives",
+                            "processes",
+                            "HR",
+                            "meetings",
+                            "seminars",
+                            "HR",
+                            "professionals",
+                            "region",
+                            "Gain",
+                            "experience",
+                            "Human",
+                            "Resources",
+                            "Information",
+                            "system",
+                            "HRIS",
+                            "databas",
+                            "e",
+                            "management",
+                            "record",
+                            "keeping",
+                            "Application",
+                            "HR",
+                            "law",
+                            "compliance",
+                            "regulations",
+                            "Qualifications",
+                            "Proficient",
+                            "Microsoft",
+                            "Word",
+                            "Excel",
+                            "General",
+                            "knowledge",
+                            "employment",
+                            "law",
+                            "practices",
+                            "level",
+                            "confidentiality",
+                            "management",
+                            "communication",
+                            "skills"
+              ],
+              "keyterms": [
+                            [
+                                          "Job Description",
+                                          0.3785950567868457
+                            ],
+                            [
+                                          "Human Resources",
+                                          0.2228732209484816
+                            ],
+                            [
+                                          "HR",
+                                          0.03147710327200168
+                            ],
+                            [
+                                          "employee",
+                                          0.028409984214094436
+                            ],
+                            [
+                                          "employment",
+                                          0.012758808070873175
+                            ],
+                            [
+                                          "Company",
+                                          0.012256879889228786
+                            ],
+                            [
+                                          "intern",
+                                          0.01124384283234637
+                            ],
+                            [
+                                          "development",
+                                          0.01087541722168227
+                            ],
+                            [
+                                          "Information",
+                                          0.010507863485326506
+                            ],
+                            [
+                                          "skill",
+                                          0.008088813443244334
+                            ],
+                            [
+                                          "participation",
+                                          0.007201367755740348
+                            ],
+                            [
+                                          "training",
+                                          0.00699979788196207
+                            ],
+                            [
+                                          "process",
+                                          0.005025177104153369
+                            ],
+                            [
+                                          "management",
+                                          0.0041957090128599975
+                            ],
+                            [
+                                          "Systems",
+                                          0.004081557879573455
+                            ],
+                            [
+                                          "relation",
+                                          0.004066219174044808
+                            ],
+                            [
+                                          "responsibility",
+                                          0.00398163208916343
+                            ],
+                            [
+                                          "Specific",
+                                          0.003959988607959455
+                            ],
+                            [
+                                          "exposure",
+                                          0.0039395711694359325
+                            ],
+                            [
+                                          "orientation",
+                                          0.003937319610414493
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 16,
+                            "ADP": 18,
+                            "ADV": 1,
+                            "AUX": 3,
+                            "CCONJ": 17,
+                            "DET": 10,
+                            "NOUN": 78,
+                            "PART": 2,
+                            "PRON": 2,
+                            "PROPN": 37,
+                            "SCONJ": 1,
+                            "SPACE": 38,
+                            "VERB": 13
+              },
+              "resume_data": " \n \n  Sample Job Description \n \n \n \n Job Title:  \n    Human Resources Assistant  \n \nJob Description:  This position reports to the Human Resources (HR) director and \ninterfaces with company managers and HR staff. Company XYZ is \ncommitted to an employee -orientated, hig h performance culture that \nemphasizes empowerment, quality, continuous improvement, and the recruitment and ongoing development of a superior workforce.  \n \nThe intern will gain exposure  \nto these functional areas:   HR Information Systems ; Employee relations ; Training and development;  \n  Benefits ; Compensation; Organization development ; Employment  \n \n \nSpecific responsibilities:   -      Employee orientation and training logistics and recordkeeping  \n- Company -wide committee facilitation and participation  \n- Employee safety, welfare, wellness and health reporting  \n- Provide direct support to employees during implementation of HR  \nservices, policies and programs  \n \n \nWhat skills will the  \nintern learn:  -      Active participation in strategic planning process, including    \n                                                                 developing goals, objectives and processes  \n- How to engage professionally in HR meetings and seminars with \nother HR professionals in the region  \n- Gain experience with Human Resources Information system  (HRIS) \ndatabas e management and record keeping  \n- Application of HR law and compliance with governmental regulations  \n \n \n \nQualifications :   -      Proficient with Microsoft Word and Excel  \n- General knowledge of employment law and practices  \n- Able to maintain a high level of confidentiality  \n- Effective oral and written management communication skills  \n",
+              "tri_grams": "[Sample Job Description, Human Resources Assistant, Human Resources HR, Resources HR director, interfaces with company, managers and HR, HR staff Company, staff Company XYZ, employee orientated hig, orientated hig h, hig h performance, h performance culture, emphasizes empowerment quality, empowerment quality continuous, quality continuous improvement, recruitment and ongoing, intern will gain, HR Information Systems, Training and development, Compensation Organization development, orientation and training, logistics and recordkeeping, Company wide committee, wide committee facilitation, facilitation and participation, Employee safety welfare, safety welfare wellness, wellness and health, Provide direct support, support to employees, employees during implementation, implementation of HR, policies and programs, participation in strategic, strategic planning process, planning process including, developing goals objectives, objectives and processes, professionally in HR, meetings and seminars, experience with Human, Human Resources Information, Resources Information system, databas e management, management and record, Application of HR, law and compliance, compliance with governmental, Proficient with Microsoft, Word and Excel, knowledge of employment, law and practices, Able to maintain, maintain a high, level of confidentiality, oral and written, written management communication, management communication skills]",
+              "unique_id": "ca3a6189-c6a3-4fbc-bf51-4b3569b35a89",
+              "years": []
+}
