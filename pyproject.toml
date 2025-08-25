@@ -1,0 +1,124 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-genie"
+version = "2.0.0"
+description = "AI-powered resume matching tool to optimize resumes for ATS systems"
+authors = [{name = "Job Genie Team", email = "contact@jobgenie.ai"}]
+license = {text = "Apache-2.0"}
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["resume", "ats", "ai", "nlp", "job-matching"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Office/Business",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "streamlit>=1.35.0",
+    "pandas>=2.3.2", 
+    "numpy>=1.26.0,<2.0.0",
+    "spacy>=3.8.0",
+    "scikit-learn>=1.5.0",
+    "pypdf>=5.0.0",
+    "qdrant-client>=1.11.0",
+    "cohere>=5.8.0",
+    "python-dotenv>=1.0.1",
+    "pyyaml>=6.0.2",
+    "plotly>=5.20.0",
+    "networkx>=3.4.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black>=24.0.0",
+    "isort>=5.13.0", 
+    "flake8>=7.1.0",
+    "mypy>=1.11.0",
+    "pre-commit>=3.8.0",
+    "pytest>=8.3.0",
+    "pytest-cov>=5.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/thesoham2203/Job-Genie"
+"Bug Reports" = "https://github.com/thesoham2203/Job-Genie/issues"
+Source = "https://github.com/thesoham2203/Job-Genie"
+
+[project.scripts]
+job-genie = "scripts.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["scripts*"]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | env
+)/
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+known_first_party = ["scripts"]
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --cov=scripts --cov-report=html --cov-report=term-missing"
+
+[tool.coverage.run]
+source = ["scripts"]
+omit = ["*/tests/*", "*/env/*", "*/__pycache__/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+]
