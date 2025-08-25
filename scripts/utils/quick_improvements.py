@@ -1,9 +1,6 @@
 """
 Quick improvements script - immediate enhancements to existing code.
 """
-import re
-from typing import List, Dict, Any
-import streamlit as st
 
 # 1. Better keyword extraction
 def extract_job_keywords_improved(job_description: str) -> List[Dict[str, Any]]:

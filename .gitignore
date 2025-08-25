@@ -4,6 +4,16 @@ __pycache__/
 *$py.class
 *.so
 .Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.pip-cache/
+
+# Distribution / packaging
 build/
 develop-eggs/
 dist/
@@ -21,40 +31,64 @@ wheels/
 *.egg
 MANIFEST
 
-# Virtual Environment
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
 
-# Configuration files with sensitive data
-config.yml
-config.yaml
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# Spyder project settings
+.spyderproject
+.spyproject
 
-# IDE
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Logs
-*.log
-logs/
-app.log
-
-# Data files (potentially sensitive)
-Data/Resumes/*.pdf
-Data/JobDescription/*.pdf
-Data/Processed/
-
-# OS generated files
+# OS
 .DS_Store
 .DS_Store?
 ._*
@@ -63,14 +97,52 @@ Data/Processed/
 ehthumbs.db
 Thumbs.db
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Logs
+*.log
+logs/
+app.log
 
-# pytest
-.pytest_cache/
-.coverage
+# Data files (sensitive)
+Data/Processed/
+Data/Resumes/
+Data/JobDescription/
+*.pdf
+*.docx
+*.doc
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+# Model files
+models/
+*.pkl
+*.joblib
+
+# API keys and secrets
+.env
+secrets.json
+config.json
+api_keys.txt
+config.yml
+config.yaml
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Docker
+.dockerignore
+
+# Node modules (if any frontend components)
+node_modules/
+
+# Streamlit
+.streamlit/
+
+# AI/ML specific
+wandb/
+mlruns/
+.mlflow/
